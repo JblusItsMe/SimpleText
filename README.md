@@ -10,3 +10,10 @@ messages:
   - "0:5:0:world:This is a{n}simple message"
 ...
 ```
+# SimpleText - Information
+```
+API: 4.8.1
+PHP: 8.1
+Author: JblusItsMe
+Version: 1.0.0
+```
