@@ -16,4 +16,6 @@ API: 4.8.1
 PHP: 8.1
 Author: JblusItsMe
 Version: 1.0.0
+
+Discord: https://discord.gg/SAykWtyuNr
 ```
